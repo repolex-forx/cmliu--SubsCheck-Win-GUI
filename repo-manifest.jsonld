@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/cmliu/SubsCheck-Win-GUI/commit/3bca96943791a1f9b79a6dde535cd79ba54fc7b9",
       "git:hexsha": "3bca96943791a1f9b79a6dde535cd79ba54fc7b9",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-09T20:57:11.549694+00:00"
     },
     {
       "@id": "https://repolex.ai/r/cmliu/SubsCheck-Win-GUI/commit/023872888a1d76e2b6bf7e73ee0444ad76055b5f",
