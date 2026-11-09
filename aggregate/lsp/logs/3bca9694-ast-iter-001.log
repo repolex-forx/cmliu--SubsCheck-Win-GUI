@@ -1,0 +1,7 @@
+[2026-11-09T20:55:45Z] === AST ITERATION 1 START | repo=cmliu/SubsCheck-Win-GUI sha=3bca9694 ===
+[2026-11-09T20:55:45Z] [iter=1] PHASE START: ast repo=cmliu/SubsCheck-Win-GUI sha=3bca9694
+[2026-11-09T20:55:45Z] [iter=1] Building AST aggregate chunks
+[2026-11-09T20:56:10Z] [iter=1] AST chunks built count=1 triples=219240
+[2026-11-09T20:56:10Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/3bca96943791a1f9b79a6dde535cd79ba54fc7b9/.complete
+[2026-11-09T20:56:10Z] [iter=1] PHASE END: ast elapsed_s=25 elapsed_min=0.4
+[2026-11-09T20:56:10Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
